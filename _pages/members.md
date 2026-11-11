@@ -2,23 +2,34 @@
 layout: page
 title: members
 permalink: /members/
-description: Participating institutes, clinics and patient advocacy organisations.
+description: The coordinator, participating institutes and patient advocacy organisations of iSNARE.
 nav: true
 nav_order: 1
 ---
 
 iSNARE connects treatment sites in nine EU countries and Israel with methodology partners in stem cell biology, mouse models, compound delivery, in silico modeling and data science, together with the patient organisations that represent the families we work for.
 
-## Participating organisations
+## Coordinator
 
-> **To be completed.** Replace the placeholder entries below with the institutes and clinics of the consortium, one entry per partner, in the order of the work package table of the proposal.
+**Matthijs Verhage** — [Amsterdam UMC & VU Amsterdam](https://www.amsterdamumc.nl/)
+[ORCID 0000-0002-6085-7503](https://orcid.org/0000-0002-6085-7503) · [m.verhage@vu.nl](mailto:m.verhage@vu.nl)
 
-- **Coordinator** — [institute name], [city, country]
-- **Partner 1** — [institute name], [city, country] — in vitro assays and patient-own iPSC neurons
-- **Partner 2** — [institute name], [city, country] — mouse models and EEG phenotyping
-- **Partner 3** — [institute name], [city, country] — compound delivery to the brain
-- **Partner 4** — [institute name], [city, country] — model characterisation
-- **Partner 5** — [institute name], [city, country] — patient cohorts and family meetings
+## Partners
+
+- **Robert Fluhr** — Weizmann Institute of Science, Department of Plant and Environmental Sciences
+  [ORCID 0000-0001-5641-1472](https://orcid.org/0000-0001-5641-1472)
+- **Dr. Efrat Ben-Zeev.** (Prof.) — Weizmann Institute of Science
+  [ORCID 0000-0001-9954-3248](https://orcid.org/0000-0001-9954-3248)
+- **Jakob Balslev** — University of Copenhagen, Department of Neuroscience
+  [ORCID 0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)
+- **Lydia Alvarez-Erviti** — Fundación Rioja Salud, Department of Molecular Neurobiology
+  [ORCID 0000-0002-1238-9442](https://orcid.org/0000-0002-1238-9442)
+- **Manuel Alvarez-Dolado** — Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC), Centro Andaluz de Biología Molecular y Medicina Regenerativa (CABIMER)
+  [ORCID 0000-0002-0655-8289](https://orcid.org/0000-0002-0655-8289)
+- **Marcello Scala** — IRCCS Istituto Giannina Gaslini, Medical Genetics Unit
+  [ORCID 0000-0003-2194-7239](https://orcid.org/0000-0003-2194-7239)
+- **Emel Timucin** — Gebze Technical University, Faculty of Science, Department of Molecular Biology and Genetics
+  [ORCID 0000-0003-0048-0668](https://orcid.org/0000-0003-0048-0668)
 
 ## Patient advocacy organisations
 

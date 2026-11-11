@@ -1,0 +1,55 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+/* Built-in Sass modules you’ll likely use across partials */
+@use "sass:math";
+@use "sass:string";
+
+/* Configure your design tokens BEFORE loading any of your partials.
+   Make sure `_sass/_variables.scss` declares `$max-content-width: 72rem !default;` */
+@use "variables" with (
+  $max-content-width: {{site.max_width | default: "930px"}}
+);
+
+/* Your project partials — convert these files to `@use "variables";`
+   (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
+@use "themes";
+@use "layout";
+
+// Core styles organized by usage
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+
+// Other specialized styles
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* -----------------------------------------------------------------------------
+   iSNARE — site-wide background image
+
+   Local override of the gem-owned `assets/css/main.scss` (only the block below
+   differs from the upstream file). `assets/css/` is not on the style-contract
+   stop list, so this file is the supported way to add global CSS without a
+   local Tailwind/Sass build pipeline.
+
+   A fixed pseudo-element rather than `background-attachment: fixed` on <body>:
+   iOS Safari ignores `background-attachment: fixed` and would stretch the image
+   over the full document height. `z-index: -1` keeps the image above the body's
+   background colour but below all in-flow content, identically in every browser.
+   -------------------------------------------------------------------------- */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("../img/back.jpg") center center / cover no-repeat;
+  z-index: -1;
+}

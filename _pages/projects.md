@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: project
 permalink: /projects/
 description: The five work packages of the iSNARE consortium.
 nav: true

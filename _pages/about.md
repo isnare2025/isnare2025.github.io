@@ -45,7 +45,7 @@ Candidate treatments are tested in three phases of development:
 2. Six to ten emerging candidates (small molecules and antisense oligonucleotides).
 3. Novel compounds designed de novo by iSNARE in silico modeling using validated SNARE protein templates.
 
-The work is organised into five work packages — coordination and integration (WP1), in silico design (WP2), in vitro tests (WP3), in vivo tests (WP4) and data analysis (WP5). Each work package has its own page under [projects](/projects/).
+The work is organised into five work packages — coordination and integration (WP1), in silico design (WP2), in vitro tests (WP3), in vivo tests (WP4) and data analysis (WP5). Each work package has its own page under [project](/projects/).
 
 ## Take part
 

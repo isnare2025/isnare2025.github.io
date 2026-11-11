@@ -9,10 +9,9 @@ nav_order: 8
 
 ## General enquiries
 
-- **Email:** [contact email of the consortium]
-- **Coordination:** [coordinator name], [institute], [city, country]
-
-> **To be completed.** Replace the placeholders above with the coordination address of iSNARE.
+- **Coordinator:** Matthijs Verhage, Amsterdam UMC & VU Amsterdam
+- **Email:** [m.verhage@vu.nl](mailto:m.verhage@vu.nl)
+- **ORCID:** [0000-0002-6085-7503](https://orcid.org/0000-0002-6085-7503)
 
 ## Patient organisations
 
