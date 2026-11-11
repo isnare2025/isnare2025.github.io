@@ -7,35 +7,24 @@ nav: true
 nav_order: 3
 ---
 
-Everything iSNARE produces for the community will be collected here. Each item links to the canonical location — add the link as soon as the resource is public.
+Everything iSNARE produces for the community will be collected here.
 
 ## Deliverables
 
-> **To be completed.** Replace the placeholder rows with the deliverables of the proposal, using the numbering of the grant agreement.
-
-- **D1.1** — [Title of the deliverable] — [link]
-- **D2.1** — [Title of the deliverable] — [link]
-- **D3.1** — [Title of the deliverable] — [link]
-- **D4.1** — [Title of the deliverable] — [link]
-- **D5.1** — [Title of the deliverable] — [link]
+Deliverables of the project are published here, numbered as in the grant agreement.
 
 ## Data
 
-- Standardised in vitro assay protocols — [link]
-- Mouse model and EEG data sets — [link]
-- Patient EEG reference data — [link]
+Standardised in vitro assay protocols, mouse model and EEG data sets, and patient EEG reference data are released here.
 
 ## Software and models
 
-- In silico modeling pipeline — [link]
-- Statistical analysis and biomarker notebooks — [link]
+The in silico modeling pipeline and the statistical analysis and biomarker notebooks are released here.
 
 ## For families and clinicians
 
-- Patient registry and real-world data — [link]
-- Annual patient family meeting material — [link]
-- Links to the patient advocacy organisations are listed on the [members page](/members/).
+Material from the annual patient family meeting and patient registry information are collected here. Links to the patient advocacy organisations are listed on the [members page](/members/).
 
 ## Citing iSNARE
 
-If you use resources published by the consortium, please cite the corresponding [publications](/publications/). Citation files will be added here as soon as the first papers appear.
+If you use resources published by the consortium, please cite the corresponding [publications](/publications/).

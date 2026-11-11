@@ -7,7 +7,7 @@ first_name: iSNARE
 middle_name:
 last_name:
 contact_note: >
-  General enquiries: <a href="mailto:contact@example.org">contact@example.org</a>. For patient-organisation
+  General enquiries: <a href="mailto:m.verhage@vu.nl">m.verhage@vu.nl</a>. For patient-organisation
   enquiries, please reach out to the relevant advocacy partner listed on the members page.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   iSNARE — Improving SNAREopathy Perspectives. An international consortium developing and
@@ -17,7 +17,7 @@ footer_text: >
   © iSNARE consortium. Content licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a> unless stated otherwise.
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: iSNARE, SNAREopathy, STXBP1, SYT1, SNAP25, rare disease, neurodevelopmental disorder, mNDD, consortium, biomarkers, drug repurposing # add your own keywords or leave empty
+keywords: iSNARE, SNAREopathy, STXBP1, SYT1, SNAP25, rare disease, neurodevelopmental disorder, mNDD, consortium, biomarkers, drug repurposing
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: apple-touch-icon.png # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
