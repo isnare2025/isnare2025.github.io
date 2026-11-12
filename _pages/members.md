@@ -18,7 +18,7 @@ iSNARE connects treatment sites in nine EU countries and Israel with methodology
 
 - **Robert Fluhr** — Weizmann Institute of Science, Department of Plant and Environmental Sciences
   [ORCID 0000-0001-5641-1472](https://orcid.org/0000-0001-5641-1472)
-- **Dr. Efrat Ben-Zeev.** (Prof.) — Weizmann Institute of Science
+- **Efrat Ben-Zeev** — Weizmann Institute of Science
   [ORCID 0000-0001-9954-3248](https://orcid.org/0000-0001-9954-3248)
 - **Jakob Balslev** — University of Copenhagen, Department of Neuroscience
   [ORCID 0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)
