@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WP5 — Data analysis
+title: Data analysis
 description: Multi-scale data integration, biomarker discovery and quantitative comparison of candidate treatments.
 importance: 5
 category: work

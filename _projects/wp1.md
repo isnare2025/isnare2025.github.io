@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WP1 — Coordination and integration
+title: Coordination and integration
 description: Project coordination, standardisation of the assay pipeline and dissemination to treatment sites.
 importance: 1
 category: work

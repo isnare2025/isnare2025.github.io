@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WP3 — In vitro tests
+title: In vitro tests
 description: Testing candidate treatments in patient-own iPSC-derived SNAREopathy neurons.
 importance: 3
 category: work

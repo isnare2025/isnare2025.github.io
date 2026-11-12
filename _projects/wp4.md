@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WP4 — In vivo tests
+title: In vivo tests
 description: Testing candidate treatments in validated SNAREopathy mouse models and reading out EEG biomarkers.
 importance: 4
 category: work

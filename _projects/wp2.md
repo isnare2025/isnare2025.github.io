@@ -1,6 +1,6 @@
 ---
 layout: page
-title: WP2 — In silico design
+title: In silico design
 description: De novo design of candidate compounds using AI and physics-based modeling on validated SNARE protein templates.
 importance: 2
 category: work

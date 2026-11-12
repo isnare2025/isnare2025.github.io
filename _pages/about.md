@@ -29,7 +29,7 @@ iSNARE combines cellular assays based on iPSC-derived SNAREopathy patient neuron
 
 ## Funding
 
-iSNARE is one of the 18 projects selected under the [ERDERA Joint Transnational Call 2025](https://erdera.org/call/joint-transnational-call-2025/), which supports preclinical therapy studies for rare diseases using small molecules and biologicals. ERDERA is the European Rare Disease Research Network, and its joint transnational calls are co-funded by the European Commission.
+iSNARE is one of the projects selected under the [ERDERA Joint Transnational Call 2025](https://erdera.org/call/joint-transnational-call-2025/), which supports preclinical therapy studies for rare diseases using small molecules and biologicals. ERDERA is the European Rare Disease Research Network, and its joint transnational calls are co-funded by the European Commission.
 
 ## Objectives
 
