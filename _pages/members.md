@@ -11,24 +11,24 @@ iSNARE connects treatment sites in nine EU countries and Israel with methodology
 
 ## Coordinator
 
-**Matthijs Verhage** — [Amsterdam UMC & VU Amsterdam](https://www.amsterdamumc.nl/)
+**Matthijs Verhage** — [Amsterdam UMC & VU Amsterdam](https://www.amsterdamumc.nl/) **(NL)**
 [ORCID 0000-0002-6085-7503](https://orcid.org/0000-0002-6085-7503) · [m.verhage@vu.nl](mailto:m.verhage@vu.nl)
 
 ## Partners
 
-- **Robert Fluhr** — Weizmann Institute of Science, Department of Plant and Environmental Sciences
+- **Robert Fluhr** — Weizmann Institute of Science, Department of Plant and Environmental Sciences **(IL)**
   [ORCID 0000-0001-5641-1472](https://orcid.org/0000-0001-5641-1472)
-- **Efrat Ben-Zeev** — Weizmann Institute of Science
+- **Efrat Ben-Zeev** — Weizmann Institute of Science **(IL)**
   [ORCID 0000-0001-9954-3248](https://orcid.org/0000-0001-9954-3248)
-- **Jakob Balslev** — University of Copenhagen, Department of Neuroscience
+- **Jakob Balslev Sørensen** — University of Copenhagen, Department of Neuroscience **(DK)**
   [ORCID 0000-0001-5465-3769](https://orcid.org/0000-0001-5465-3769)
-- **Lydia Alvarez-Erviti** — Fundación Rioja Salud, Department of Molecular Neurobiology
+- **Lydia Alvarez-Erviti** — Fundación Rioja Salud, Department of Molecular Neurobiology **(ES)**
   [ORCID 0000-0002-1238-9442](https://orcid.org/0000-0002-1238-9442)
-- **Manuel Alvarez-Dolado** — Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC), Centro Andaluz de Biología Molecular y Medicina Regenerativa (CABIMER)
+- **Manuel Alvarez-Dolado** — Agencia Estatal Consejo Superior de Investigaciones Científicas (CSIC), Centro Andaluz de Biología Molecular y Medicina Regenerativa (CABIMER) **(ES)**
   [ORCID 0000-0002-0655-8289](https://orcid.org/0000-0002-0655-8289)
-- **Marcello Scala** — IRCCS Istituto Giannina Gaslini, Medical Genetics Unit
+- **Marcello Scala** — IRCCS Istituto Giannina Gaslini, Medical Genetics Unit **(IT)**
   [ORCID 0000-0003-2194-7239](https://orcid.org/0000-0003-2194-7239)
-- **Emel Timucin** — Gebze Technical University, Faculty of Science, Department of Molecular Biology and Genetics
+- **Emel Timucin** — Gebze Technical University, Faculty of Science, Department of Molecular Biology and Genetics **(TR)**
   [ORCID 0000-0003-0048-0668](https://orcid.org/0000-0003-0048-0668)
 
 ## Patient advocacy organisations
